@@ -14,7 +14,7 @@ This Python script provides functionality to replace the background of an object
 You can clone this project using git. Open your terminal and run the following command:
 
 ```bash
-git clone <repository_url>
+git clone https://github.com/huynhngoanhthai/Background-Subtraction.git
 
 ```
 After that, you can install the required packages using pip. In the root directory of the project, run the following command:
