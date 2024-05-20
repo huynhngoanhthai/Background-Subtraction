@@ -59,3 +59,6 @@ ob_image  = cv2.cvtColor(ob_image,  cv2.COLOR_BGR2RGB)
 output_image = replaceBackGround(bg_image1, bg_image2, ob_image)
 
 plt.imshow(output_image)
+plt.imshow(output_image)
+plt.axis('off')  # Hide axes for better visualization
+plt.show()
